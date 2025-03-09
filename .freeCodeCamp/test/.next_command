@@ -45,3 +45,19 @@ ls --color=auto -a
 git init
 git remote add origin https://github.com/mrquochung1502/freecodecamp-db-worldcup.git
 git add .
+git commit -m "basic setup"
+git remote -v
+git branch -M main
+git push -u origin main
+./insert_data.sh
+./insert_data.sh
+./insert_data.sh
+./insert_data.sh
+./insert_data.sh
+./insert_data.sh
+./insert_data.sh
+__vsc_prompt_cmd_original
+./insert_data.sh
+./insert_data.sh
+git commit -m "complete insert data"
+git add .
