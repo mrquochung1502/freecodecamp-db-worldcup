@@ -127,3 +127,10 @@ git add .
 ./queries.sh
 ./queries.sh
 git add .
+git commit -m "finish"
+git push origin main
+./queries.sh
+./queries.sh
+./i
+./insert_data.sh
+git add .
