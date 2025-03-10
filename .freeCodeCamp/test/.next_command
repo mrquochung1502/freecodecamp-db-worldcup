@@ -103,3 +103,26 @@ psql --username=freecodecamp --dbname=postgres
 ./insert_data.sh
 pg_dump -cC --inserts -U freecodecamp worldcup > worldcup.sql
 git add .
+./queries.sh
+./queries.sh
+./queries.sh
+./queries.sh
+./queries.sh
+./queries.sh
+./insert_data.sh
+./queries.sh
+./queries.sh
+./queries.sh
+./queries.sh
+./queries.sh
+./queries.sh
+./queries.sh
+./queries.sh
+./queries.sh
+./queries.sh
+./queries.sh
+./queries.sh
+./queries.sh
+./queries.sh
+./queries.sh
+./queries.sh
